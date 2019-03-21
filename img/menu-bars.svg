@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.5" height="24.5" viewBox="0 0 24.5 24.5">
+  <defs>
+    <style>
+      circle.background {
+        fill: #fff;
+      }
+
+      line.bar {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="background">
+    <circle class="cls-1" cx="12.2" cy="12.2" r="12.2"/>
+  </g>
+  <g id="bars">
+    <g>
+      <line class="bar" x1="3" y1="7.3" x2="21.9" y2="7.3"/>
+      <line class="bar" x1="3" y1="12.3" x2="21.9" y2="12.3"/>
+      <line class="bar" x1="3" y1="17.2" x2="21.9" y2="17.2"/>
+    </g>
+  </g>
+</svg>

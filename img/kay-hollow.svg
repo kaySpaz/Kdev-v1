@@ -1,0 +1,11 @@
+<svg id="mask" xmlns="http://www.w3.org/2000/svg" width="66.9" height="74" viewBox="0 0 66.9 74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>kay-hollow</title>
+  <path class="cls-1" d="M-.2,0V74H66.7V0ZM44.7,62.1,33.3,41.5,27.4,49V62.4H16.6V12.2h11V34.1L44.4,12.2H56.9c-5.4,6.8-10.7,13.7-16,20.5L57.1,62.1Z" transform="translate(0.2 0)"/>
+</svg>
